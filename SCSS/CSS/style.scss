@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #fafafc;
+    padding: 1.8rem 5rem;
+    align-items: center;
+
+    
+    
+    .logo{
+        width: 15%;
+        padding: 1rem;
+    }
+
+    .logo-1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navbar .main{
+        text-decoration: none;
+        color: #e94e56;
+    }
+    .navbar a{
+        text-decoration: none;
+        color: #707070;
+        padding: 0 1rem;
+    }
+    .first{
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    
+}
+
+section{
+    .nav-1 a{
+        text-decoration: none;
+        color: #333333;
+        font-size: 20px;
+        padding: 22px 13px;
+
+    }
+    #Second{
+        padding: 1rem 9.5rem;
+    }
+    
+   .photo{
+    z-index: -1;
+    position: relative;
+    margin-top: 2rem;
+    
+   }
+
+   .text{
+    z-index: +1;
+    position: absolute;
+    color: #fafafc;
+    margin: 4rem;
+   }
+
+    
+    
+        
+    
+    
+}
